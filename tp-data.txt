@@ -1,0 +1,67 @@
+--------------- University institutions ------------------
+Centre universitaire d'Aflou
+Centre Universitaire d'Illizi-Cheikh Amoud ben Mokhtar
+Centre universitaire de Tipaza - Abdallah Morsli
+Ecole des hautes etudes commerciales
+Ecole Nationale Polytechnique
+Ecole nationale Superieure agronomique - Khalef Abdellah alias Kasdi Merbah
+Ecole nationale Superieure d'hydraulique - Arbaoui Abdellah
+Ecole nationale Superieure d'informatique
+Ecole nationale Superieure de journalisme et des sciences de l'information
+Ecole nationale Superieure de management
+Ecole Nationale Superieure de Technologie
+Ecole nationale Superieure des sciences de la mer et de l'amenagement du littoral
+Ecole Nationale Superieure des sciences politiques
+Ecole Nationale Superieure des Technologies Avancees
+Ecole nationale Superieure des travaux publics - Francis Jeanson
+Ecole Nationale Superieure en Mathematique
+Ecole nationale Superieure en statistique et en economie appliquee
+Ecole Nationale Superieure en Intelligence Artificielle
+Ecole nationale Superieure veterinaire - Rabie Bouchama
+Ecole normale Superieure de Bouzareah - Cheikh Mubarak Ben Mohamed Brahimi El Mili
+Ecole normale Superieure de Kouba - Mohamed Bachir El Ibrahimi
+Ecole normale Superieure de Laghouat - Taleb Abderrahmane
+Ecole Polytechnique d'architecture et d'Urbanisme - Hocine Ait Ahmed
+Ecole Superieure de Commerce - Mouloud Kacem Nait Belkacem
+Ecole Superieure de Gestion et d'Economie Numerique
+Ecole Superieure des Sciences appliquees d'Alger
+Ecole Superieure des Sciences de l'Aliment et des Industries Agroalimentaires d'Alger
+Ecole Superieure en Sciences et Technologies de l'Informatique et du Numerique de Bejaia
+Universite d'Alger 1 - Benyoucef Benkhedda
+Universite d'Alger 2 - Abou el Kacem Saadallah
+Universite d'Alger 3 - Brahim Soltane Chaibout
+Universite de Bejaia - Abderrahmane Mira
+Universite de Blida 2 - Lounici Ali
+Universite de Ghardaia
+Universite de la Formation Continue
+Universite de Tamenghasset
+Universite de Tizi Ouzou - Mouloud Maameri
+Universite des sciences et de la technologie d'Alger, Houari Boumediene
+Universite Blida 1 - Saad Dahlab
+Universite de Bouira - Akli Mohand Oulhadj
+Universite de Boumerdes - M'hamed Bougara
+Universite de Djelfa - Ziane Achour
+Universite de Khemis Miliana - Djilali Bounaama
+Universite de Laghouat - Amar Telidji
+Universite Medea - Yahia Fares
+---------------------- Sport Events --------------------
+Aviron
+Athletisme 
+Badminton 
+Basketball
+Boxe
+Cyclisme
+Echecs
+Escrime
+Football
+Gymnastique
+Halterophilie
+Handball
+Judo
+Karate
+Natation
+Taekwondo
+Tennis
+Tennis de table
+Tir a l'arc
+Volleyball
